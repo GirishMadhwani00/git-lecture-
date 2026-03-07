@@ -3,3 +3,7 @@ print("My girlfriend's name is charuJain.")
 def add(a,b):
     return a+b
 print(add(2,3))
+
+def sub(a,b):
+    return a-b
+print(sub(5,2))
