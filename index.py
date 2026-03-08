@@ -7,3 +7,4 @@ def multiply(a,b):
     return a*b 
 print(multiply(2,3))
 print("I am learning Python.")
+print("Python is a great programming language.")
